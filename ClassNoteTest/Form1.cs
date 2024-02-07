@@ -142,8 +142,6 @@ namespace ClassNoteTest
 
 			komut.ExecuteNonQuery();
 			connection.Close();
-
-
 		}
 	}
 }
